@@ -21,7 +21,7 @@
     }
     ?>
     <div style="border-radius: 15px 50px; background-color: green; text-align: center;">
-        <p>TAMOO' EN JAPPOONN</p>
+        <p>TAMO' EN JAPPOONN</p>
         <p>GENTEE CON COJONEHHH</p>
         <p>Ya estamos en el aeropuerto</p>
         <p>¿Me podrias decir que modelo de avión es conocido como, la reina de los cielos?</p>
